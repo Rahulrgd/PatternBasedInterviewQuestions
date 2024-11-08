@@ -7,7 +7,7 @@
 - 3 Question: Left Triangle Star Pattern
   - <img src="image-2.png" alt="Alt text" width="200" height="200">
 
-- 4 Question: Diamond Shape Pattern Program
+- 4 Question: Diamond Shape Pattern Program - Difficult
   - <img src="image-3.png" alt="Alt text" width="200" height="200">
 
 - 5 Question: Downward Triangle Star Pattern
@@ -16,11 +16,11 @@
 - 6 Question: Mirrored Right Triangle Star Program
   - <img src="image-5.png" alt="Alt text" width="200" height="200">
 
-- 7 Question:
-  -
+- 7 Question: Reversed Pyramid Star Pattern - Difficult
+  - <img src="image-6.png" alt="Alt text" width="200" height="200">
 
-- 8 Question:
-  -
+- 8 Question: Right down Mirror Star Pattern
+  - <img src="image-7.png" alt="Alt text" width="200" height="200">
 
 - 9 Question:
   -
