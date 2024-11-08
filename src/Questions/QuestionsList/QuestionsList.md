@@ -1,12 +1,12 @@
 - 1 Question: Pyramid Program
-  - ![alt text](image.png)
+  - <img src="image-1.png" alt="Alt text" width="200" height="200">
+
 
 - 2 Question: Right Triangle Star Pattern
-  - <img src="image-1.png" alt="Alt text" width="300" height="200">
-
+  - <img src="image-1.png" alt="Alt text" width="200" height="200">
 
 - 3 Question:
-  -
+  - 
 
 - 4 Question:
   -
