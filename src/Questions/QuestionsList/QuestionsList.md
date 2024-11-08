@@ -1,17 +1,16 @@
 - 1 Question: Pyramid Program
   - <img src="image-1.png" alt="Alt text" width="200" height="200">
 
-
 - 2 Question: Right Triangle Star Pattern
   - <img src="image-1.png" alt="Alt text" width="200" height="200">
 
-- 3 Question:
-  - 
+- 3 Question: Left Triangle Star Pattern
+  - <img src="image-2.png" alt="Alt text" width="200" height="200">
 
-- 4 Question:
-  -
+- 4 Question: Diamond Shape Pattern Program
+  - <img src="image-3.png" alt="Alt text" width="200" height="200">
 
-- 5 Question:
+- 5 Question: 
   -
 
 - 6 Question:
