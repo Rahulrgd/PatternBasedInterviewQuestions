@@ -13,8 +13,8 @@
 - 5 Question: Downward Triangle Star Pattern
   - <img src="image-4.png" alt="Alt text" width="200" height="200">
 
-- 6 Question:
-  -
+- 6 Question: Mirrored Right Triangle Star Program
+  - <img src="image-5.png" alt="Alt text" width="200" height="200">
 
 - 7 Question:
   -
