@@ -1,8 +1,8 @@
 - 1 Question: Pyramid Program
   - ![alt text](image.png)
 
-- 2 Question:
-  -
+- 2 Question: Right Triangle Star Pattern
+  - ![alt text](image-1.png)
 
 - 3 Question:
   -
