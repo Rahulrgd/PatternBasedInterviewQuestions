@@ -1,5 +1,6 @@
 - Question: 1
-  -![alt text](image.png)
+  - ![alt text](image.png)
+  
 - Question: 2
   -
 - Question: 3
