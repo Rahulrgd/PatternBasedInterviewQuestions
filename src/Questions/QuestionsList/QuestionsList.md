@@ -1,4 +1,4 @@
-- 1 Question: 
+- 1 Question: Pyramid Program
   - ![alt text](image.png)
 
 - 2 Question:
