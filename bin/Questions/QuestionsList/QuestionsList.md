@@ -2,7 +2,8 @@
   - ![alt text](image.png)
 
 - 2 Question: Right Triangle Star Pattern
-  - ![alt text](image-1.png)
+  - <img src="image-1.png" alt="Alt text" width="300" height="200">
+
 
 - 3 Question:
   -
