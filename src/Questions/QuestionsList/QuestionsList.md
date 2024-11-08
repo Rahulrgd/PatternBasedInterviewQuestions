@@ -10,8 +10,8 @@
 - 4 Question: Diamond Shape Pattern Program
   - <img src="image-3.png" alt="Alt text" width="200" height="200">
 
-- 5 Question: 
-  -
+- 5 Question: Downward Triangle Star Pattern
+  - <img src="image-4.png" alt="Alt text" width="200" height="200">
 
 - 6 Question:
   -
