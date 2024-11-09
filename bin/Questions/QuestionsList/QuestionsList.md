@@ -36,11 +36,11 @@
 - 12 Question: Number Pattern Program in java
   - <img src="image-11.png" alt="Alt text" width="200" height="200">
 
-- 13 Question:
-  -
+- 13 Question: Diamond Pattern Program in Java
+  - <img src="image-12.png" alt="Alt text" width="200" height="200">
 
-- 14 Question:
-  -
+- 14 Question: Number Pattern Program in Java
+  - <img src="image-13.png" alt="Alt text" width="200" height="200">
 
 - 15 Question:
   -
