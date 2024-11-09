@@ -30,8 +30,8 @@
 - 10 Question: Pascal’s Triangle Program in Java
   - <img src="image-9.png" alt="Alt text" width="200" height="200">
 
-- 11 Question:
-  -
+- 11 Question: Simple number program
+  - <img src="image-10.png" alt="Alt text" width="200" height="200">
 
 - 12 Question:
   -
