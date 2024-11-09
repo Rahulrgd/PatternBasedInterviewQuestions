@@ -1,3 +1,5 @@
+- [Text](https://www.edureka.co/blog/30-pattern-programs-in-java/)
+
 - 1 Question: Pyramid Program
   - <img src="image-1.png" alt="Alt text" width="200" height="200">
 
@@ -22,8 +24,8 @@
 - 8 Question: Right down Mirror Star Pattern
   - <img src="image-7.png" alt="Alt text" width="200" height="200">
 
-- 9 Question:
-  -
+- 9 Question: Binary Number Pattern
+  - <img src="image-8.png" alt="Alt text" width="200" height="200">
 
 - 10 Question:
   -
