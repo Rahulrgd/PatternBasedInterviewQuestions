@@ -45,8 +45,8 @@
 - 15 Question: Descending order Pattern
   - <img src="image-14.png" alt="Alt text" width="200" height="200">
 
-- 16 Question:
-  -
+- 16 Question: Right Triangle Numeric Pattern 
+  - <img src="image-15.png" alt="Alt text" width="200" height="200">
 
 - 17 Question:
   -
