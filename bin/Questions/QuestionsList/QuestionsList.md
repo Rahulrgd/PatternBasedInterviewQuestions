@@ -48,8 +48,8 @@
 - 16 Question: Right Triangle Numeric Pattern 
   - <img src="image-15.png" alt="Alt text" width="200" height="200">
 
-- 17 Question:
-  -
+- 17 Question: Zeros/ Ones Pattern Programs
+  - <img src="image-16.png" alt="Alt text" width="200" height="200">
 
 - 18 Question:
   -
