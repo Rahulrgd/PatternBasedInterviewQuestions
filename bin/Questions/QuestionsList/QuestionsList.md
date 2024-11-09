@@ -42,8 +42,8 @@
 - 14 Question: Number Pattern Program in Java
   - <img src="image-13.png" alt="Alt text" width="200" height="200">
 
-- 15 Question:
-  -
+- 15 Question: Descending order Pattern
+  - <img src="image-14.png" alt="Alt text" width="200" height="200">
 
 - 16 Question:
   -
