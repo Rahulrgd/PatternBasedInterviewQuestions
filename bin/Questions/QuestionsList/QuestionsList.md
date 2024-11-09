@@ -33,8 +33,8 @@
 - 11 Question: Simple number program
   - <img src="image-10.png" alt="Alt text" width="200" height="200">
 
-- 12 Question:
-  -
+- 12 Question: Number Pattern Program in java
+  - <img src="image-11.png" alt="Alt text" width="200" height="200">
 
 - 13 Question:
   -
