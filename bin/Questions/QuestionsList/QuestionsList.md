@@ -57,8 +57,8 @@
 - 19 Question: Right Alphabetic triangle 
   - <img src="image-18.png" alt="Alt text" width="200" height="200">
 
-- 20 Question:
-  -
+- 20 Question: Alphabet/ Character Pattern Programs
+  - <img src="image-19.png" alt="Alt text" width="200" height="200">
 
 - 21 Question:
   -
