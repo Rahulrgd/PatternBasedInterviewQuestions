@@ -27,8 +27,8 @@
 - 9 Question: Binary Number Pattern
   - <img src="image-8.png" alt="Alt text" width="200" height="200">
 
-- 10 Question:
-  -
+- 10 Question: Pascal’s Triangle Program in Java
+  - <img src="image-9.png" alt="Alt text" width="200" height="200">
 
 - 11 Question:
   -
