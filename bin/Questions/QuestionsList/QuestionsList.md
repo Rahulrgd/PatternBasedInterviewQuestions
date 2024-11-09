@@ -51,8 +51,8 @@
 - 17 Question: Zeros/ Ones Pattern Programs
   - <img src="image-16.png" alt="Alt text" width="200" height="200">
 
-- 18 Question:
-  -
+- 18 Question: Diamond Numeric Pattern
+  - <img src="image-17.png" alt="Alt text" width="200" height="200">
 
 - 19 Question:
   -
