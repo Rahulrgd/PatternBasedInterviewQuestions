@@ -1,4 +1,4 @@
-- [Text](https://www.edureka.co/blog/30-pattern-programs-in-java/)
+- [Link to Website](https://www.edureka.co/blog/30-pattern-programs-in-java/)
 
 - 1 Question: Pyramid Program
   - <img src="image-1.png" alt="Alt text" width="200" height="200">
@@ -63,8 +63,8 @@
 - 21 Question: K Shape Character Pattern Program
   - <img src="image-20.png" alt="Alt text" width="200" height="200">
 
-- 22 Question:
-  -
+- 22 Question: Triangle Character Pattern Program in Java
+  - <img src="image-21.png" alt="Alt text" width="200" height="200">
 
 - 23 Question:
   -
