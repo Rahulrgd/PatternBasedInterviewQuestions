@@ -60,8 +60,8 @@
 - 20 Question: Alphabet/ Character Pattern Programs
   - <img src="image-19.png" alt="Alt text" width="200" height="200">
 
-- 21 Question:
-  -
+- 21 Question: K Shape Character Pattern Program
+  - <img src="image-20.png" alt="Alt text" width="200" height="200">
 
 - 22 Question:
   -
