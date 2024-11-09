@@ -54,8 +54,8 @@
 - 18 Question: Diamond Numeric Pattern
   - <img src="image-17.png" alt="Alt text" width="200" height="200">
 
-- 19 Question:
-  -
+- 19 Question: Right Alphabetic triangle 
+  - <img src="image-18.png" alt="Alt text" width="200" height="200">
 
 - 20 Question:
   -
