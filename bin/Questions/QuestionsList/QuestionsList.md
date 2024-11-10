@@ -66,8 +66,8 @@
 - 22 Question: Triangle Character Pattern Program in Java
   - <img src="image-21.png" alt="Alt text" width="200" height="200">
 
-- 23 Question:
-  -
+- 23 Question: Diamond Pattern in Java
+  - <img src="image-22.png" alt="Alt text" width="200" height="200">
 
 - 24 Question:
   -
