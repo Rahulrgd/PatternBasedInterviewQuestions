@@ -69,8 +69,8 @@
 - 23 Question: Diamond Pattern in Java
   - <img src="image-22.png" alt="Alt text" width="200" height="200">
 
-- 24 Question:
-  -
+- 24 Question: Right Pascal’s Triangle
+  - <img src="image-23.png" alt="Alt text" width="200" height="200">
 
 - 25 Question:
   -
