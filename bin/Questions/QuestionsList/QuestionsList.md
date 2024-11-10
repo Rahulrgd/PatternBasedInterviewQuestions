@@ -72,8 +72,8 @@
 - 24 Question: Right Pascal’s Triangle
   - <img src="image-23.png" alt="Alt text" width="200" height="200">
 
-- 25 Question:
-  -
+- 25 Question: Left  Triangle Pascal’s
+  - <img src="image-24.png" alt="Alt text" width="200" height="200">
 
 - 26 Question:
   -
