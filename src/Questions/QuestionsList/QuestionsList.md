@@ -75,8 +75,8 @@
 - 25 Question: Left  Triangle Pascal’s
   - <img src="image-24.png" alt="Alt text" width="200" height="200">
 
-- 26 Question:
-  -
+- 26 Question: Sandglass Star Pattern
+  - <img src="image-25.png" alt="Alt text" width="200" height="200">
 
 - 27 Question:
   -
