@@ -81,8 +81,8 @@
 - 27 Question: Hollow Triangle Star pattern
   - <img src="image-26.png" alt="Alt text" width="200" height="200">
 
-- 28 Question:
-  -
+- 28 Question: Hollow Down triangle
+  - <img src="image-27.png" alt="Alt text" width="200" height="200">
 
 - 29 Question:
   -
