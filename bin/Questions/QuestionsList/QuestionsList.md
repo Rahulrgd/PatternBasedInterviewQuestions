@@ -78,8 +78,8 @@
 - 26 Question: Sandglass Star Pattern
   - <img src="image-25.png" alt="Alt text" width="200" height="200">
 
-- 27 Question:
-  -
+- 27 Question: Hollow Triangle Star pattern
+  - <img src="image-26.png" alt="Alt text" width="200" height="200">
 
 - 28 Question:
   -
